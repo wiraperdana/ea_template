@@ -1,0 +1,12 @@
+{
+  "name": "eacar_v3.0.0",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "dependencies": {
+    "node-red": "^0.10.6",
+    "node-red-node-mysql": "0.0.5"
+  }
+}

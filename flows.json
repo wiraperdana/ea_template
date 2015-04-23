@@ -1,0 +1,20 @@
+[
+    {
+        "type": "tab",
+        "id": "141c2766.ebe3d9",
+        "label": "EA Car"
+    },
+    {
+        "id": "e6be06e7.1941f8",
+        "type": "http in",
+        "name": "[POST] /adapters/car",
+        "url": "/adapters/car",
+        "method": "post",
+        "x": 228,
+        "y": 184,
+        "z": "141c2766.ebe3d9",
+        "wires": [
+            []
+        ]
+    }
+]
