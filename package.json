@@ -6,7 +6,9 @@
   "scripts": {},
   "author": "",
   "dependencies": {
+    "moment": "^2.10.2",
     "node-red": "^0.10.6",
+    "node-red-contrib-async": "0.0.4",
     "node-red-node-mysql": "0.0.5"
   }
 }
